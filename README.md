@@ -6,6 +6,11 @@ Members:
 - Butrahandisya (1301190206)
 - Vincentius Arnold Fridolin (1301190221)
 
+Prerequisite (can be installed with pip):
+
+- Bokeh
+- Pandas
+
 To run:
 ```sh
 bokeh serve main.py
